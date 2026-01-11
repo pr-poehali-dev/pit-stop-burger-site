@@ -8,7 +8,7 @@ const Index = () => {
         }}
       />
       
-      <h1 className="absolute left-8 bottom-[calc(100vh-520px)] text-4xl font-heading font-bold animate-fade-in z-20">
+      <h1 className="absolute left-8 top-[510px] text-4xl font-heading font-bold animate-fade-in z-20 text-black">
         ПИТ СТОП БУРГЕР
       </h1>
 
