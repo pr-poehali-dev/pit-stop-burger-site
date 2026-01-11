@@ -9,7 +9,7 @@ const Index = () => {
           }}
         />
         
-        <h1 className="absolute left-8 bottom-4 text-4xl font-heading font-bold animate-fade-in z-20 text-white">
+        <h1 className="absolute left-8 bottom-4 text-4xl font-heading font-bold animate-fade-in z-20 text-black">
           ПИТ СТОП БУРГЕР
         </h1>
       </div>
