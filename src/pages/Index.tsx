@@ -8,10 +8,14 @@ const Index = () => {
         }}
       />
       
-      <div className="relative z-10 flex items-center justify-center min-h-screen">
-        <h1 className="text-6xl md:text-8xl font-heading font-bold text-center animate-fade-in">
-          Добро пожаловать<br />в Пит Стоп Бургер
-        </h1>
+      <h1 className="absolute left-8 bottom-[calc(100vh-520px)] text-4xl font-heading font-bold animate-fade-in z-20">
+        ПИТ СТОП БУРГЕР
+      </h1>
+
+      <div className="absolute right-8 top-8 z-20">
+        <h2 className="text-5xl font-heading font-bold tracking-wider">
+          МЕНЮ
+        </h2>
       </div>
     </div>
   );
